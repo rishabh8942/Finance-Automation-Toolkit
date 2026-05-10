@@ -207,12 +207,6 @@ All settings in `config.py` / `.env`:
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE)
-
----
-
 ## 👤 Author
 
 **Rishabh Pandey**
